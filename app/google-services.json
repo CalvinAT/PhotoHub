@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "611295923825",
+    "project_id": "photohub-dbb92",
+    "storage_bucket": "photohub-dbb92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611295923825:android:0f8ff098908b3f183b15d0",
+        "android_client_info": {
+          "package_name": "com.example.photohub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611295923825-vrit6ud4agq89pi1oapn9cvpivi6h7at.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArSqDsiytuRvA9S6vi5f7GhW1YpSDxTnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611295923825-vrit6ud4agq89pi1oapn9cvpivi6h7at.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
